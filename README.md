@@ -18,7 +18,6 @@ Next.js: Experienced in building high-performance applications using SSR, SSG, a
 
 ⚙️ Backend Skills
 Express.js: Proficient in developing RESTful APIs, middleware, and real-time applications using WebSocket.
-
 Django (MVT, Django REST Framework): Specializing in designing secure, scalable backend architectures and managing complex data models.
 
 💼 Collaboration
