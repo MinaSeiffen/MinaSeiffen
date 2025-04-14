@@ -1,6 +1,6 @@
 👋 Hi, I’m Mina Seiffen
 
-🚀 Full Stack Web Developer | React | Next.js | Express | Django
+🚀 Full Stack Web Developer | React | Next.js | Angular | Vue.js | Express | Django
 
 I’m a dedicated full stack web developer with a strong background in frontend and backend development. I specialize in creating responsive, dynamic, and scalable web applications that deliver outstanding user experiences.
 
